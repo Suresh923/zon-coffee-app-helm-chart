@@ -12,7 +12,7 @@ maxSurge: 2
 maxUnavailable: 1
   
 image:
-  repository: 628809433177.dkr.ecr.ap-south-1.amazonaws.com/zon-coffee:latest
+  repository: jatayu99/zon-coffee:latest
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
